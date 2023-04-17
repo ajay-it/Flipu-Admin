@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "646578426395",
+    "project_id": "flipu-66d8f",
+    "storage_bucket": "flipu-66d8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646578426395:android:6717397b4d5687b07e1ebe",
+        "android_client_info": {
+          "package_name": "com.example.flipu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646578426395-hhp7t3b07eknaj0pdv98gdfq6sd0rioj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUjFRxtwHpyOuzN-POqKGKfDkvCBYbzeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646578426395-hhp7t3b07eknaj0pdv98gdfq6sd0rioj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646578426395:android:2de9c748528aafca7e1ebe",
+        "android_client_info": {
+          "package_name": "com.example.flipuadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646578426395-hhp7t3b07eknaj0pdv98gdfq6sd0rioj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUjFRxtwHpyOuzN-POqKGKfDkvCBYbzeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646578426395-hhp7t3b07eknaj0pdv98gdfq6sd0rioj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
